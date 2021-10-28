@@ -1,5 +1,5 @@
 [package]
-name = "rest-api-rust"
+name = "rust-learnings"
 version = "0.1.0"
 edition = "2018"
 
